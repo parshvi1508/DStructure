@@ -1,0 +1,4 @@
+set difference
+union
+intersection
+symmetric difference
